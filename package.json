@@ -1,0 +1,30 @@
+{
+  "name": "eatopia",
+  "version": "0.0.1",
+  "description": "this is the food delivery website",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sshukl72/Eatopia.git"
+  },
+  "keywords": [
+    "food",
+    "delivery"
+  ],
+  "author": "shubham shukla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sshukl72/Eatopia/issues"
+  },
+  "homepage": "https://github.com/sshukl72/Eatopia#readme",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
